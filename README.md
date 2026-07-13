@@ -1,6 +1,6 @@
 # Hey there, I'm Om Thete! 👋, a Software Engineer.
 💻 Full Stack Developer with 3.5+ years of experience building scalable, high-performance web applications and micro frontend solutions.<br>🌐 Experienced in designing responsive, accessible, and user-centric applications using React, Next.js, Vue.js, JavaScript, and TypeScript.<br>
-⚙️Building backend applications with Node.js, Express.js, REST APIs, JWT Authentication, OAuth 2.0, MongoDB, and Supabase.<br>🏗️ Passionate about scalable architecture, clean code, performance optimization, and creating end-to-end software solutions.<br>🌱 Currently deepening my knowledge in System Design, Cloud (AWS), Docker, and scalable backend architecture.<br>
+⚙️ Building backend applications with Node.js, Express.js, REST APIs, JWT Authentication, OAuth 2.0, MongoDB, and Supabase.<br>🏗️ Passionate about scalable architecture, clean code, performance optimization, and creating end-to-end software solutions.<br>🌱 Currently deepening my knowledge in System Design, Cloud (AWS), Docker, and scalable backend architecture.<br>
 💬 Ask me about JavaScript, TypeScript, React, Next.js, Vue.js, Node.js, Express.js, MongoDB, REST APIs, and Full Stack Development.<br>
 ⚡ Fun fact: I enjoy turning complex business requirements into clean, maintainable, and scalable software.<br>
 
